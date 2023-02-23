@@ -131,3 +131,4 @@ dmypy.json
 ml-25m/*
 .DS_Store
 runs/*
+*.pth
