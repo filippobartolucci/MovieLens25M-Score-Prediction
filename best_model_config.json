@@ -1,0 +1,1 @@
+{"hidden_size": 256, "depth": 3, "num_epochs": 200, "batch": 32, "lr": 0.1, "step_size": 20}
