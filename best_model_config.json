@@ -1,1 +1,1 @@
-{"hidden_size": 256, "depth": 3, "num_epochs": 200, "batch": 32, "lr": 0.1, "step_size": 20}
+{"name": "dim:1024_depth:3_batch:32_lr:0.1_step_size:20_momentum:0.9", "hidden_size": 1024, "depth": 3, "num_epochs": 200, "batch": 32, "lr": 0.1, "step_size": 20}
