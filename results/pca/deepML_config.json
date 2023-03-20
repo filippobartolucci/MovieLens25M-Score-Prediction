@@ -1,0 +1,1 @@
+{"name": "dim:512_depth:4_batch:32_lr:0.1_step_size:20_momentum:0.9", "hidden_size": 512, "depth": 4, "num_epochs": 200, "batch": 32, "lr": 0.1, "step_size": 20}
