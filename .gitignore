@@ -132,4 +132,5 @@ ml-25m/*
 .DS_Store
 runs/*
 *.pth
-*.csv
+ml-25m/*
+dataset.csv
