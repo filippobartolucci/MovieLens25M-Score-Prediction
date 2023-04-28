@@ -12,9 +12,9 @@ lezione
 * Evaluation
 
 ## Funzionalità sviluppate
-* [ ] tecniche di ML supervised tradizionali non deep
-* [ ] tecniche di ML supervised basate su reti neurali
-* [ ] tecnica di ML supervised con modelli deep per TabularData
+* [x] tecniche di ML supervised tradizionali non deep
+* [x] tecniche di ML supervised basate su reti neurali
+* [x] tecnica di ML supervised con modelli deep per TabularData
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
